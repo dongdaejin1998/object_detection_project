@@ -25,5 +25,4 @@ efficientnet은 인공지능에서 세가지의 정확도가 좋은 방식을 �
 <br/><br/><br/><br/><br/>
 ##
 [자세한 사항1](https://github.com/dongdaejin1998/object_detection_project/blob/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%8F%EC%84%A4%EA%B3%84%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp)
-<br/>
 [자세한 사항2](https://github.com/dongdaejin1998/object_detection_project/blob/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%8F%EC%84%A4%EA%B3%84_%EC%B5%9C%EC%A2%85%EB%B3%B8(%EC%99%84%EC%84%B1).pptx)
